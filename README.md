@@ -52,8 +52,9 @@ which makes it suitable for correlation analysis and visual exploration.
 The following workflow outlines the key steps performed in this project:
 
 <p align="center">
-  <img src="images/workflow.png" alt="Project Workflow" width="450"/>
+  <img src="images/workflow.png" alt="Project Workflow" width="400"/>
 </p>
+
 ---
 
 ## Data Preprocessing
@@ -117,7 +118,7 @@ Visualisations created during EDA include:
 - Heatmap of correlation matrix (all features after numerizing)
 
 <p align="center">
-  <img src="images/heatmap2.png" alt="Corr Matrix" width="500"/>
+  <img src="images/heatmap2.png" alt="Corr Matrix" width="550"/>
 </p>
 
 ---
