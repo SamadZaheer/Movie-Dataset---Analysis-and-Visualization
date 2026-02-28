@@ -100,25 +100,25 @@ Visualisations created during EDA include:
 - Scatter Plot of Budget vs Gross
 
 <p align="center">
-  <img src="images/scatter.png" alt="Budget Vs Gross" width="400"/>
+  <img src="images/scatter.png" alt="Budget Vs Gross" width="500"/>
 </p>
   
 - Regression Plot of Budget vs Gross
 
 <p align="center">
-  <img src="images/reg.png" alt="Budget vs Gross" width="400"/>
+  <img src="images/reg.png" alt="Budget vs Gross" width="500"/>
 </p>
   
 - Heatmap of correlation matrix (numeric features)
 
 <p align="center">
-  <img src="images/heatmap1.png" alt="Corr Matrix" width="400"/>
+  <img src="images/heatmap1.png" alt="Corr Matrix" width="500"/>
 </p>
 
 - Heatmap of correlation matrix (all features after numerizing)
 
 <p align="center">
-  <img src="images/heatmap2.png" alt="Corr Matrix" width="400"/>
+  <img src="images/heatmap2.png" alt="Corr Matrix" width="500"/>
 </p>
 
 ---
