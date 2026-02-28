@@ -52,9 +52,8 @@ which makes it suitable for correlation analysis and visual exploration.
 The following workflow outlines the key steps performed in this project:
 
 <p align="center">
-  <img src="images/workflow.png" alt="Project Workflow" width="600"/>
+  <img src="images/workflow.png" alt="Project Workflow" width="450"/>
 </p>
-
 ---
 
 ## Data Preprocessing
