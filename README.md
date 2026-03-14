@@ -33,6 +33,10 @@ The findings are directly actionable for studio acquisition teams and streaming 
 
 ## Approach
 
+<p align="center">
+  <img src="images/workflow.png" alt="Project Workflow" width="400"/>
+</p>
+
 1. **Loading & exploration** — loaded dataset, profiled missing values across all columns, noted which features had significant gaps
 2. **Preprocessing** — converted Budget and Gross to integer format; extracted correct release year from `Released` date strings into a new `Correct_Year` column; sorted by Gross; checked for and removed duplicates
 3. **Visual EDA** — scatter plot and regression plot of Budget vs Gross; regression plot of Votes vs Gross
@@ -56,10 +60,6 @@ Visualisations produced:
 
 <p align="center">
   <img src="images/heatmap2.png" alt="Full Feature Correlation Matrix" width="550"/>
-</p>
-
-<p align="center">
-  <img src="images/workflow.png" alt="Project Workflow" width="400"/>
 </p>
 
 ---
