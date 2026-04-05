@@ -4,6 +4,12 @@ Exploratory data analysis identifying the features most strongly correlated with
 
 ---
 
+## Tableau Dashboard
+
+[View Interactive Dashboard](https://public.tableau.com/app/profile/samad.zaheer/viz/WhatMakesaMovieProfitable_17743675595280/Dashboard1)
+
+---
+
 ## Project Overview
 
 What actually drives a film's commercial success — star power, critic ratings, or raw budget? This analysis cuts through industry intuition with data, examining 7,668 movies to quantify which variables most strongly predict gross earnings. Using regression plots, annotated heatmaps, and correlation analysis, the project surfaces a clear, evidence-based story about the economics of the film industry.
