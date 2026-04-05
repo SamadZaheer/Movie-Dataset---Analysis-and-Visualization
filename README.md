@@ -1,12 +1,8 @@
 # Movie Data Analysis & Visualisation
 
+[![Live Demo](https://img.shields.io/badge/-%F0%9F%93%8A%20Live%20Demo-1a1a2e?style=flat-square)](https://public.tableau.com/app/profile/samad.zaheer/viz/WhatMakesaMovieProfitable_17743675595280/Dashboard1) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/samad.zaheer/viz/WhatMakesaMovieProfitable_17743675595280/Dashboard1)
+
 Exploratory data analysis identifying the features most strongly correlated with box office gross earnings across 7,668 films — with directly actionable findings for studio acquisition teams and streaming platforms.
-
----
-
-## Tableau Dashboard
-
-[View Interactive Dashboard](https://public.tableau.com/app/profile/samad.zaheer/viz/WhatMakesaMovieProfitable_17743675595280/Dashboard1)
 
 ---
 
